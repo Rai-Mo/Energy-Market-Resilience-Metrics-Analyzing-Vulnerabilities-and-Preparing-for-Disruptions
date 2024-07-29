@@ -28,9 +28,13 @@ Seaborn: For Data Visualization
 # Results
 Visualizations using the Matplotlib and Seaborn libraries show us the following: 
 Energix Enterprise experiences marked variances in energy production, consumption, and demand patterns. There are distinct periods where the demand overshadows production highlighting potential areas of concern in market stability and supply consistency. 
+
 Pricing Volatility: Energix's energy pricing exhibits variability in alignment with broader market price trends. Notably, the energy price remains uncorrelated with energy demand, presenting potential challenges in sales predictability and revenue forecasting 
+
 Infrastructure & Technology Concerns: A significant portion of the company's infrastructure is categorized as 'Poor’ coupled with pronounced technology limitations. There's a compelling case for comprehensive infrastructure rejuvenation. Preliminary analysis suggests that periods of 'Poor’ infrastructure status and ‘High' technology constraints may correlate with diminished energy production.
+
 Regulatory & Financial Implications: Energix is continually navigating a changing regulatory landscape, with new mandates and modifications to existing ones. The financial ramifications, especially in terms of compliance costs and operational expenditures, are substantial. A juxtaposition of these costs with the firm's current revenue trajectory indicates a pressing profitability challenge. 
+
 Emergence of Renewables: The energy market is witnessing a paradigm shift with renewables gaining prominence. Data trends suggest instances where renewable energy production has eclipsed that of fossil fuels. For Energix, this underscores the dual challenges of evolving competition and potential erosion of market share.
 
 # Business Recommendations
